@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WISE 2025 | HIMAGI UPNVJ</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+
+  <!-- Header -->
+  <header class="bg-green-700 text-white p-6">
+    <div class="container mx-auto">
+      <h1 class="text-3xl font-bold">WISE 2025</h1>
+      <p class="text-lg">Workshop on Intake & Survey Enumeration</p>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container mx-auto p-6 bg-white rounded-lg shadow-lg mt-6">
+    <img src="https://himagi.upnvj.ac.id/wp-content/uploads/2024/05/WISE.jpeg" alt="WISE Banner" class="rounded mb-6 w-full">
+    
+    <h2 class="text-2xl font-bold mb-2">Tema:</h2>
+    <p class="mb-4">"Improving Anthropometric Measurement Skills and The Use of NutriSurvey for Effective Nutrition Monitoring"</p>
+
+    <h2 class="text-2xl font-bold mb-2">Tujuan:</h2>
+    <p class="mb-4">Meningkatkan keterampilan mahasiswa dalam antropometri dan penggunaan NutriSurvey untuk monitoring gizi.</p>
+
+    <h2 class="text-2xl font-bold mb-2">Jadwal:</h2>
+    <ul class="list-disc ml-6 mb-4">
+      <li><strong>Pertemuan 1:</strong> Jumat, 11 April 2025, 08.00–15.00 WIB @ Auditorium Tanah Airku</li>
+      <li><strong>Pertemuan 2:</strong> Sabtu, 12 April 2025, 08.00–16.00 WIB @ Ruang Rapat 507, Gedung MERCe</li>
+    </ul>
+
+    <h2 class="text-2xl font-bold mb-2">Pemateri:</h2>
+    <p class="mb-4">Dr. Firlia Ayu Arini, S.K.M., M.K.M. – Materi: Antropometri & Cek Kesehatan</p>
+
+    <a href="https://himagi.upnvj.ac.id" class="inline-block bg-green-700 text-white px-4 py-2 rounded hover:bg-green-800">Kunjungi Situs HIMAGI</a>
+  </main>
+
+  <!-- Footer -->
+  <footer class="text-center text-sm text-gray-500 py-6">
+    &copy; 2025 HIMAGI UPNVJ | Workshop WISE 2025
+  </footer>
+
+</body>
+</html>
